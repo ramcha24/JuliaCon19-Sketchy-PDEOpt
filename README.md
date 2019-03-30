@@ -3,7 +3,7 @@
 This is a proof of concept implementation of sketching for PDE-constrained Optimization. 
 We leverage recent advances in randomized sketching algorithms to develop low memory optimization recipes. 
 
-This implementation is currently in accordance with Julia-v0.6.x, currently being ported to v1.0
+This implementation is currently in accordance with Julia-v0.6.x and being ported to v1.0.x
 
 ### Collaborators - 
 1. [Madeleine Udell, Cornell University](https://people.orie.cornell.edu/mru8/)
